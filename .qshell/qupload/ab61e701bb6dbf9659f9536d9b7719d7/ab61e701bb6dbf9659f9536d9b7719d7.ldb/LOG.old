@@ -1,0 +1,9 @@
+=============== Oct 18, 2016 (CST) ===============
+21:00:10.215998 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:00:10.216201 db@open opening
+21:00:10.216250 journal@recovery F·1
+21:00:10.216618 journal@recovery recovering @12
+21:00:10.217626 db@janitor F·4 G·0
+21:00:10.217656 db@open done T·1.449489ms
+21:00:10.220660 db@close closing
+21:00:10.220783 db@close done T·118.162µs
