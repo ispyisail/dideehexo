@@ -7,8 +7,9 @@ tags:
 - 百度云
 ---
 
+![batch_Snip20161014_18](/images/batch_Snip20161014_18-1.jpg)
 
-![batch_Snip20161014_18](/images/batch_Snip20161014_18.jpg)
+
 
 
 ##相关软件

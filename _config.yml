@@ -75,6 +75,6 @@ theme: next
 sitemap:
     path: sitemap.xml
 
-duoshuo_shortname: didee
+# duoshuo_shortname: didee
 
 # baidu_analytics : 50480710a4758c4d2c1113f99ac97e4d
