@@ -8,7 +8,8 @@ tags:
 ---
 ### 获取签名
 
-Xcode8 有自动管理签名功能,按照XVim作者的方法[INSTALL_Xcode8](https://github.com/XVimProject/XVim/blob/master/INSTALL_Xcode8.md),可以创建一个XcodeSigner用于签名Xcode,但是使用 Xcode 时就无法再使用自己的证书了,解决方法是用自己的开发者证书签名 Xcode
+Xcode8 有自动管理签名功能,按照XVim作者的方法[INSTALL_Xcode8](https://github.com/XVimProject/XVim/blob/master/INSTALL_Xcode8.md),可以创建一个XcodeSigner用于签名Xcode
+但是,使用 XcodeSigner 证书就无法使用自己的开发者帐号进行调试了,解决方法是`用自己的开发者证书签名 Xcode`
 <!-- more -->
 首先终端输入
 ```
@@ -36,6 +37,7 @@ $ codesign -f -s <IdentifyID>  /Applications/Xcode.app
 
 ### Xcode8插件
 
+合集
 [xcode-8-extensions](https://theswiftdev.com/2016/08/17/xcode-8-extensions/)
 
 
