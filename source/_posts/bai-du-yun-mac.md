@@ -4,10 +4,11 @@ date: 2016-10-16 19:54:34
 categories:
 - MAC
 tags:
-- 百度云
+- bai-du-yun
 ---
 ![batch_Snip20161014_18](/images/batch_Snip20161014_18-1.jpg)
 
+<!-- more -->
 
 ## 相关软件
 
@@ -15,7 +16,6 @@ tags:
 下载扩展程序(推荐 Chrome)并解压,在 Chrome 中选择`加载已解压的扩展程序`,路径中选择`/chrome`目录
 [https://github.com/acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
-<!-- more -->
 
 ![batch_Snip20161014_16](/images/batch_Snip20161014_16.jpg)
 
@@ -30,7 +30,6 @@ Download : [Aria2GUI-20161014-Build.zip](http://blog-file.didee.cn/Aria2GUI-0930
 ## 不限速下载
 百度云中选择 `ARIA RPC` 即可不限速下载
 
-![snip 2016-10-24 上午1.39.34-w116](/images/snip%202016-10-24%20%E4%B8%8A%E5%8D%881.39.34.png)
-
+<img src="/images/snip%202016-10-24%20%E4%B8%8A%E5%8D%881.39.34.png" width="116"/>
 
 

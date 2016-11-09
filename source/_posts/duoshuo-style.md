@@ -2,15 +2,20 @@
 title: 本站多说评论和分享 CSS样式
 date: 2016-10-24 11:30:34
 categories:
-- 建站
+- Site
 tags:
-- 多说
-- 建站
+- duo-shuo
+- CSS
 ---
 
 ## 效果
-
+Chrome:
 ![-w750](/images/14772800547694.jpg)
+
+<!-- more -->
+iOS:
+ <img src="/images/IMG_0680%202.png" width="375"/>
+
 
 
 ## 站点配置开启
@@ -24,11 +29,11 @@ duoshuo_shortname: didee
 duoshuo_share: true
 ```
 
-<!-- more -->
+
 
 ## 多说分享 CSS 样式
 
-![-w287](/images/14772797359492.jpg)
+<img src="/images/14772797359492.jpg" width="287"/>
 
 修改配置文件为 :
 

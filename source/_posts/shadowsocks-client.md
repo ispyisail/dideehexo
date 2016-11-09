@@ -5,10 +5,12 @@ categories:
 - MAC
 tags: 
 - Shadowsocks
+- ShadowsocksX-NG
 ---
 ## MAC
 
-**ShadowsocksX-NG** : NG版本,1022更新
+**ShadowsocksX-NG** : NG分支,1028修复
+<!-- more -->
 
 [ShadowsocksX-NG.zip](https://didee.cn/files/ShadowsocksX-NG.zip)
 
@@ -16,13 +18,13 @@ tags:
 
 ---
 ## WIN
-[ShadowsocksR-3.9.4e-win](https://didee.cn/files/ShadowsocksR-3.9.6.2e-win.7z)
+[ShadowsocksR-3.9.6.2e-win.7z](https://didee.cn/files/ShadowsocksR-3.9.6.2e-win.7z)
 
-<!-- more -->
+
 
 ---
 ## Android
-[ShadowsocksR-v3.2.3.4.apk](https://didee.cn/files/ShadowsocksR-v3.2.7.apk)
+[ShadowsocksR-v3.2.7.apk](https://didee.cn/files/ShadowsocksR-v3.2.7.apk)
 
 ---
 ## IOS

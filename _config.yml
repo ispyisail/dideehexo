@@ -7,7 +7,9 @@ title: Dee's Blog
 subtitle:
 description: AN Ordinary Developer , Geek
 author: Dee
-language: zh-Hans
+language:
+- zh-Hans
+- en
 timezone:
 
 # URL
@@ -93,3 +95,15 @@ avatar: /images/avatar.jpg
 
 # 百度分享服务
 # baidushare: true
+
+#文章分页
+index_generator:
+  per_page: 5
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+
+tag_generator:
+  per_page: 10

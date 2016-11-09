@@ -5,11 +5,12 @@ categories:
 - Xcode
 tags:
 - CocoaPods
+- Xcode8
 ---
 
-![batch_Snip20161013_3](/images/batch_Snip20161013_3.jpg)
+![batch_Snip20161013_3-w1365](/images/batch_Snip20161013_3.jpg)
 
-
+<!--more-->
 
 ## 安装 CocoaPods
 
@@ -18,7 +19,7 @@ tags:
 
 
 ## 创建 Podfile
-<!--more-->
+
 打开终端 , `cd+拖拽`切换到 项目目录
 
 ![batch_Snip20161013_6](/images/batch_Snip20161013_6-1.jpg)
@@ -54,12 +55,12 @@ platform :ios,'8.0'
 
 如 `pod search mas`
 
-![batch_Snip20161013_9](/images/batch_Snip20161013_9.jpg)
+![batch_Snip20161013_9-w724](/images/batch_Snip20161013_9.jpg)
 
 
 复制标注部分,粘贴到Podfile
 
-![batch_Snip20161013_10](/images/batch_Snip20161013_10.jpg)
+![batch_Snip20161013_10-w726](/images/batch_Snip20161013_10.jpg)
 
 
 ## 安装和卸载
@@ -68,7 +69,7 @@ platform :ios,'8.0'
 
 `pod install`
 
-![batch_Snip20161013_11](/images/batch_Snip20161013_11.jpg)
+![batch_Snip20161013_11-w728](/images/batch_Snip20161013_11.jpg)
 
 
 **卸载:**
@@ -79,15 +80,22 @@ platform :ios,'8.0'
 
 会根据Podfile升级或卸载
 
-![batch_Snip20161013_12](/images/batch_Snip20161013_12.jpg)
+![batch_Snip20161013_12-w721](/images/batch_Snip20161013_12.jpg)
 
 
 ## 使用xcworkspace打开项目
 
-![batch_Snip20161013_13](/images/batch_Snip20161013_13.jpg)
+<img src="/images/batch_Snip20161013_13.jpg" width="191"/>
 
 此时可以`#import`了
 
+
+## 修改 `User Header Search Paths`
+
+找到`User Header Search Paths` 
+添加 `${SRCROOT}`并设置为 `recursive`
+
+![Snip 1](/images/Snip%201.png)
 
 
 ## 常用指令

@@ -2,10 +2,10 @@
 title: YYModel的使用 映射Model属性名和数组
 date: 2016-10-22 12:54:34
 categories:
-- iOS框架
+- iOSFrame
 tags:
+- YYModel
 - YYKit
-- iOS框架
 ---
 
 
@@ -13,6 +13,7 @@ tags:
 
 YYModel : [https://github.com/ibireme/YYModel](https://github.com/ibireme/YYModel)
 
+<!-- more -->
 
 ## Model声明
 
@@ -21,8 +22,6 @@ YYModel : [https://github.com/ibireme/YYModel](https://github.com/ibireme/YYMode
 ```objc
 @property(nonatomic, strong) NSArray<ChildModel *> *childName;
 ```
-
-<!-- more -->
 
 ## Model映射实现
 

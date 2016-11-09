@@ -2,23 +2,24 @@
 title: 仿 SDWebImage框架 Block回调传值思路
 date: 2016-10-23 21:54:34
 categories:
-- iOS框架
+- iOSFrame
 tags:
-- iOS学习
-- iOS框架
+- SDWebImage
+- Block
 ---
 
 
 ### 类型
 
-![2016-10-23 下午9.37.30-w208](/images/2016-10-23%20%E4%B8%8B%E5%8D%889.37.30.png)
+<img src="/images/2016-10-23%20%E4%B8%8B%E5%8D%889.37.30-1.png" width="208"/>
 
+
+
+<!-- more -->
 
 * `UIImageView+web` : UIImageView 分类
 * `DownloadOperationManager` : NSObject 类,管理下载
 * `DownloadOperation` : NSOperation 子类 , 下载图片
-
-<!-- more -->
 
 ### 传值过程概述
 

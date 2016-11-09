@@ -5,12 +5,13 @@ categories:
 - Xcode
 tags:
 - Xcode8
+- Plugin
 ---
 ### 获取签名
 
-Xcode8 有自动管理签名功能,按照XVim作者的方法[INSTALL_Xcode8](https://github.com/XVimProject/XVim/blob/master/INSTALL_Xcode8.md),可以创建一个XcodeSigner用于签名Xcode
+Xcode8 有自动管理签名功能,按照XVim作者的方法[INSTALL_Xcode8](https://github.com/XVimProject/XVim/blob/master/INSTALL_Xcode8.md),可以创建一个XcodeSigner用于签名Xcode<!-- more -->
 但是,使用 XcodeSigner 证书就无法使用自己的开发者帐号进行调试了,解决方法是`用自己的开发者证书签名 Xcode`
-<!-- more -->
+
 首先终端输入
 ```
 $ security find-identity -p codesigning

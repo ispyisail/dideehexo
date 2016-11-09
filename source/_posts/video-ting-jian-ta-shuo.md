@@ -6,7 +6,7 @@ categories:
 tags:
 - ChiliTomato
 - Video
-- music
+- Music
 ---
 <video src="https://didee.cn/video/ting-jian-ta-shuo.mp4" poster=/images/batch_tingjianchiqing.jpg width=100% controls="controls" preload="none" >Video</video>
 
