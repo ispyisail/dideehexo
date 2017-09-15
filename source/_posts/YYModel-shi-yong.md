@@ -1,6 +1,6 @@
 ---
 title: YYModel的使用 映射Model属性名和数组
-date: 2016-10-22 12:54:34
+date: 2015-10-22 12:54:34
 categories:
 - iOSFrame
 tags:

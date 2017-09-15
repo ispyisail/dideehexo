@@ -1,6 +1,6 @@
 ---
 title: 自签名使 Xcode8 支持三方插件
-date: 2016-10-18 12:54:34
+date: 2015-10-18 12:54:34
 categories:
 - Xcode
 tags:
@@ -33,7 +33,7 @@ $ codesign -f -s <IdentifyID> Xcode.app
 
 
 ```
-$ codesign -f -s <IdentifyID>  /Applications/Xcode.app
+$ sudo codesign -f -s <IdentifyID>  /Applications/Xcode.app
 ```
 
 ### Xcode8插件

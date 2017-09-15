@@ -1,6 +1,6 @@
 ---
 title: 百度云 MAC 不限速 下载 插件 + GUI
-date: 2016-10-16 19:54:34
+date: 2015-10-16 19:54:34
 categories:
 - MAC
 tags:
@@ -22,7 +22,7 @@ tags:
 
 **Gui for MAC**
 
-Download : [Aria2GUI-20161014-Build.zip](http://blog-file.didee.cn/Aria2GUI-0930.zip)
+Download : [Aria2GUI-20161014-Build.zip](https://upyuncdn.didee.cn/files/Aria2GUI-0930.zip)
 
 源地址:[https://github.com/yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui)
 

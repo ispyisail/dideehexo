@@ -1,6 +1,6 @@
 ---
 title: CocoaPods 使用经验教程 For Xcode 8
-date: 2016-10-17 19:54:34
+date: 2015-10-17 19:54:34
 categories:
 - Xcode
 tags:

@@ -8,7 +8,6 @@ subtitle:
 description: AN Ordinary Developer , Geek
 author: Dee
 language:
-- zh-Hans
 - en
 timezone:
 
@@ -69,10 +68,11 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-# deploy:
-#   type: git
-#   repo: git@github.com:didez/didez.github.io.git
-#   branch: master
+# git@git.coding.net:didee/didee.git
+deploy:
+  type: git
+  repo: git@git.oschina.net:didee/didee.git
+  branch: master
 
 #站点地图
 sitemap:
@@ -82,10 +82,10 @@ baidusitemap:
 path: baidusitemap.xml
 
 #多说评论
-duoshuo_shortname: didee
+# duoshuo_shortname: didee
 
 # 多说分享服务
-duoshuo_share: true
+# duoshuo_share: true
 
 #百度统计
 # baidu_analytics : 50480710a4758c4d2c1113f99ac97e4d
@@ -107,3 +107,13 @@ archive_generator:
 
 tag_generator:
   per_page: 10
+
+# 搜索
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000
+
+# google站点管理
+google_site_verification: neREdgy0YHiEBAV4iCGPb8V3dj0F8dDMQ2OYRpRQKyo

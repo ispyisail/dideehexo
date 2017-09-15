@@ -1,6 +1,6 @@
 ---
 title: 石像鬼Gargoyle-1.9.1原版 安装 Shadowsocks 教程
-date: 2016-10-26 11:30:34
+date: 2015-10-26 11:30:34
 categories:
 - OpenWrt
 tags:
@@ -18,7 +18,7 @@ tags:
 
 ## 上传ipk
 ### 下载相关文件并解压
-[gargoyle-ss.zip](https://didee.cn/files/gargoyle-ss.zip)
+[gargoyle-ss.zip](https://upyuncdn.didee.cn/files/gargoyle-ss.zip)
 
 
 ### 包含文件
